@@ -7,11 +7,11 @@ With this project I aim to test the feasibility of reconstructing a good-enough 
 The question is, whether there is enough information in hdEEG dynamics to allow for brain model reconstruction.  
 
 ## basic logic
-Sensors on surface pick up electrical information from source;  
-Aspects of the electr. signal is changing depending on source distance from sensor (SDS);  
-SDS changes cyclically with heart beat;  
-SNR of these aspects (ASDS), to be determined via AI, is high enough when integrating data across the same positions within a cycle;  
-first ASDS candidate: neural noise
+- Sensors on surface pick up electrical information from source
+- Aspects of the electr. signal is changing depending on source distance from sensor (SDS)
+- SDS changes cyclically with heart beat
+- SNR of these aspects (ASDS), to be determined via AI, is high enough when integrating data across the same positions within a cycle
+- first ASDS candidate: neural noise
 
 ## assumptions
 - existence of ASDS, based on electrical measures, is not physically impossible
