@@ -1,5 +1,5 @@
 # EEG2brainvol
-attempts to use resting/functional EEG to derive a volume suitable for beamforming via AI  
+attempts to use resting/functional EEG to derive, via AI, a volume suitable for beamforming
 
 ## big picture
 To achieve acceptable source-level resolution while keeping high time resolution with EEG, individual MRI images are needed.  
