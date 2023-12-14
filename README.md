@@ -1,4 +1,4 @@
-# EEG2brainvol
+# 3D_from_eeg
 attempts to use resting/functional EEG to derive, via AI, a volume suitable for beamforming
 
 ## big picture
